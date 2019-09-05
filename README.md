@@ -10,7 +10,7 @@ import get_ip
 IP = get_ip()
 print(IP)
 
-# this code was cobbled together from various tutorials around the web, all were open licences so I share this under the attached license for everybody free to use. Provided as is with absolutelly no warranty.
+# this code was cobbled together from various tutorials around the web, all were open licences so I share this under the attached license for everybody free to use. Provided as is with absolutely no warranty.
 
 under different Linux distributions this code might yield different results, please report not working distirbutions.
 # tested successfully on:
